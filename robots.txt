@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-8cd31ad91f.xiangtanai.cn/sitemap.xml
